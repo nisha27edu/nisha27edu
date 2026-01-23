@@ -1,6 +1,6 @@
 ## About Me
  Hi 👋 I'm Nisha Revankar
--🎓 Graduate Engineer  
+ - 🎓 Graduate Engineer
 
 ## 🎓 Education
 - Bachelor’s Degree in Engineering – Electrical and communication
