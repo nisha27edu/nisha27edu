@@ -1,6 +1,6 @@
 ## About Me
  👋 Hi, I'm Nisha Revankar
- - 🎓 Graduate Engineer @SDSU
+ - 🎓 Graduate student @SDSU
  - 🌱 I'm interested in embedded systems and machine learning, also have a prior experience in the automotive industry focused on software integration and controller design.
    
 ## 🎓 Education
